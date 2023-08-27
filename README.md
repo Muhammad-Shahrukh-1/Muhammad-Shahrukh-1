@@ -1,3 +1,4 @@
+<img alt="Image" width="1200" src="image.png">
 <h1 align="center">Hi 👋, I'm Muhammad Shahrukh Aetzaz Qaiser</h1>
 <h3 align="center">Software Engineering Student</h3>
 
